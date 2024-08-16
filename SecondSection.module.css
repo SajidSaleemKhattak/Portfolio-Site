@@ -1,0 +1,17 @@
+.imageContainer {
+  width: 75%;
+  margin: 5% auto;
+  /* background-color: aquamarine; */
+}
+.img {
+  width: 20%;
+  height: 10%;
+}
+.img1 {
+  width: 17%;
+  height: 9%;
+}
+.project_heading {
+  width: 10%;
+  margin: 0% auto;
+}

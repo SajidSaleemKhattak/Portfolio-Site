@@ -1,0 +1,10 @@
+.parent {
+  display: flex;
+  /* box-sizing: border-box; */
+}
+.card {
+  width: 222250px;
+  height: 200px;
+  background-color: rgb(218, 193, 193);
+  margin: 10px;
+}

@@ -1,0 +1,24 @@
+.para {
+  font-size: 20px;
+  text-align: justify;
+  /* background-color: blue; */
+}
+.footer_Parent_container {
+  margin: 5%;
+  margin-left: 10%;
+}
+.email {
+  font-size: 18px;
+  margin-left: 10px;
+}
+.icons {
+  font-size: 150%;
+  margin-right: 19px;
+}
+.infoParent {
+  align-items: center;
+  display: flex;
+}
+.icons1 {
+  font-size: 165%;
+}
